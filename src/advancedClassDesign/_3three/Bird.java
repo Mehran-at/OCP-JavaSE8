@@ -68,3 +68,4 @@ public class Bird implements Serializable { // line3
     It should be noted that even if the compilation problems were resolved, the code would still throw an exception at
     runtime since the Main class includes a Shape reference as a member, and the Shape class does not implement Serializable.
  */
+/////////

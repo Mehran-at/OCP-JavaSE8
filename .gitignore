@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/.gitignore
+/out/production/OCP/advancedClassDesign/_3three/resource/birds.dat
+/.idea/misc.xml
+/.idea/modules.xml
+/OCP.iml
+/out/production/OCP/advancedClassDesign/_17seventeenth/resource/gorilla/signed-words.txt
+/.idea/vcs.xml
